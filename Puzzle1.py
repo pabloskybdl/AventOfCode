@@ -3,4 +3,4 @@
     Advent Of Code - Puzzle1
 """
 
-f = open("Puzzle1.txt", "r")
+f = open("Puzzle 1.txt", "r")
